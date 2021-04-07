@@ -4,7 +4,7 @@
 ## Deploy with one click
 
 <p align="center">
-<a href="https://console.platform.sh/projects/create-project?template=https://raw.githubusercontent.com/droptica/droopler_project/release/platformsh/platform.template.yaml">
+<a href="https://console.platform.sh/projects/create-project?template=https://raw.githubusercontent.com/pawel-holik-droptica/test/release/platformsh/platform.template.yaml">
     <img src="https://platform.sh/images/deploy/lg-blue.svg" alt="Deploy on Platform.sh" width="180px" />
 </a>
 </p>
